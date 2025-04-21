@@ -1,0 +1,30 @@
+{
+  "photos": [
+    {
+      "id": "1",
+      "file_path": "src/assets/ndovu.jpg",
+      "description": "ndovu"
+    },
+    {
+      "id": "2",
+      "file_path": "src/assets/buffalo.jpg",
+      "description": "buffalo."
+    },
+    {
+      "id": "3",
+      "file_path": "src/assets/simba.jpg",
+      "description": "simba."
+    },
+    {
+      "id": "4",
+      "file_path": "src/assets/twiga.jpg",
+      "description": "twiga."
+    },
+    {
+      "id": "5",
+      "file_path": "src/assets/zebra.jpg",
+      "description": "zebra."
+    }
+  ]
+}
+  
