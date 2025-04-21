@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #f9f9f9;
+  background-color: #c938e6;
 }
 
 .gallery-container {
@@ -13,11 +13,11 @@ body {
 }
 
 h1 {
-  color: #333;
+  color: black;
   margin-bottom: 20px;
 }
 
-/* Search Bar Styling */
+
 .search-bar {
   margin-bottom: 20px;
 }
@@ -35,14 +35,14 @@ h1 {
   font-size: 16px;
   margin-left: 10px;
   border: none;
-  background-color: #007bff;
+  background-color: #1c0df3;
   color: white;
   border-radius: 4px;
   cursor: pointer;
 }
 
 .search-bar button:hover {
-  background-color: #0056b3;
+  background-color: black;
 }
 
 /* Photo Grid Styling */
@@ -53,14 +53,13 @@ h1 {
   margin-top: 20px;
 }
 
-/* Photo Card Styling */
 .photo-card {
-  border: 1px solid #ddd;
+  border: 2px solid #0e0c0c;
   border-radius: 8px;
-  background-color: white;
+  background-color: rgb(49, 238, 11);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-}
+  }
 
 .photo-card img {
   width: 100%;
@@ -70,11 +69,7 @@ h1 {
 
 .photo-card p {
   padding: 10px;
-  color: #555;
+  color:black;
 }
 
-/* Error Message Styling */
-.error-message {
-  color: red;
-  font-size: 14px;
-}
+
