@@ -13,3 +13,4 @@ If you are developing a production application, we recommend using TypeScript an
 # my-gallery-phase2-grp-project
 
 Deployed link:https://my-gallery-phase2-grp-project.vercel.app/# photo-gallery-
+# photo-gallery
