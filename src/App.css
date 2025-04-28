@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #c938e6;
+  background-color: #edb8f8;
 }
 
 .gallery-container {
@@ -51,7 +51,12 @@ h1 {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 20px;
   margin-top: 20px;
-  
+  padding: 0 20px;
+  justify-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+ 
 }
 
 .photo-card {

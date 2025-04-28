@@ -11,6 +11,7 @@ const SearchBar = ({ query, setQuery, onSearch }) => {
       />
       <button onClick={onSearch}>Search</button>
     </div>
+    
   );
 };
 
